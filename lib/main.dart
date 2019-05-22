@@ -2,7 +2,6 @@ import 'package:fit_post/ui/places_screen.dart';
 import 'package:flutter/material.dart';
 // import 'ui/post_screen.dart';
 import 'ui/post_screen.dart';
-import 'ui/test.dart';
 import 'ui/location_screen.dart';
 
 void main() => runApp(MyApp());

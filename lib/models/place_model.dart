@@ -1,8 +1,8 @@
 class Place{
-  String icon;
-  String name;
-  String vicinity;
-  String id;
+  final String icon;
+  final String name;
+  final String vicinity;
+  final String id;
 
   Place(this.icon, this.name, this.vicinity, this.id);
 }
